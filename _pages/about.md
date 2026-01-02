@@ -56,3 +56,6 @@ My research interest includes efficient ai and visual generation.
 
 # 💻 Internships
 - *2023.05 - 2025.05*, [Time Lab](https://time.sdu.edu.cn/index.htm), China.
+- *2025.06 - 2025.09*, [DI^2 Lab](https://time.sdu.edu.cn/index.htm), China.
+- *2025.10 - 2025.12*, [DI^2 Lab](https://time.sdu.edu.cn/index.htm), China.
+- *2026.01 - Now*, [ENCODE Lab](https://westlake-encode-lab.github.io/), China.
