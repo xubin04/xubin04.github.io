@@ -16,31 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-I am currently a visiting student at ENCODE Lab, Westlake University, advised by [Prof. Huan Wang] (https://huanwang.tech/).
-
-My research interest includes efficient ai and visual generation.
+I am a final-year undergraduate student in Artificial Intelligence at Shandong University's School of Software (Sept. 2022–Jun. 2026), currently visiting [ENCODE Lab](https://westlake-encode-lab.github.io/) at Westlake University under [Prof. Huan Wang's](https://huanwang.tech/)  supervision. My research focuses on efficient AI and visual generation, specifically developing computationally efficient methods for generative models.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: &nbsp;🎉🎉 I join ENCODE Lab as a new Encoder!
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
  
 
 # 📖 Educations
@@ -49,6 +31,6 @@ My research interest includes efficient ai and visual generation.
 
 # 💻 Internships
 - *2023.05 - 2025.05*, [Time Lab](https://time.sdu.edu.cn/index.htm), Shandong University.
-- *2025.06 - 2025.09*, [DI^2 Lab], HKUST(GZ).
+- *2025.06 - 2025.09*, DI^2 Lab, HKUST(GZ).
 - *2025.10 - 2025.12*, [EXCEL Lab](https://excel-lab.github.io/EXcel-Lab-Website/), UCF.
 - *2026.01 - Now*, [ENCODE Lab](https://westlake-encode-lab.github.io/), Westlake University.
