@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a visiting student at ENCODE Lab, Westlake University, advised by Prof. Huan Wang.
+I am currently a visiting student at ENCODE Lab, Westlake University, advised by [Prof. Huan Wang] (https://huanwang.tech/).
 
 My research interest includes efficient ai and visual generation.
 
@@ -41,21 +41,14 @@ My research interest includes efficient ai and visual generation.
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2026.06*, B.S., Shandong University, School of Software, Artificial Intelligence.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2023.05 - 2025.05*, [Time Lab](https://time.sdu.edu.cn/index.htm), China.
-- *2025.06 - 2025.09*, [DI^2 Lab](https://time.sdu.edu.cn/index.htm), China.
-- *2025.10 - 2025.12*, [DI^2 Lab](https://time.sdu.edu.cn/index.htm), China.
-- *2026.01 - Now*, [ENCODE Lab](https://westlake-encode-lab.github.io/), China.
+- *2023.05 - 2025.05*, [Time Lab](https://time.sdu.edu.cn/index.htm), Shandong University.
+- *2025.06 - 2025.09*, [DI^2 Lab], HKUST(GZ).
+- *2025.10 - 2025.12*, [EXCEL Lab](https://excel-lab.github.io/EXcel-Lab-Website/), UCF.
+- *2026.01 - Now*, [ENCODE Lab](https://westlake-encode-lab.github.io/), Westlake University.
