@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xu Bin"
-description              : "Graduate student in the MAIR program at CUHK-Shenzhen, researching efficient AI."
+description              : "Master's student in the MAIR program at CUHK-Shenzhen, researching efficient AI."
 repository               : "xubin04/xubin04.github.io"
 url                      : "https://xubin04.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xu Bin"
   avatar           : "/images/xubin.jpg"
-  bio              : "MAIR Student, CUHK-Shenzhen"
+  bio              : "Master's Student, CUHK-Shenzhen"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 

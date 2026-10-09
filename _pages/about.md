@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Graduate student in the MAIR program at CUHK-Shenzhen, researching efficient AI."
+excerpt: "Master's student in the MAIR program at CUHK-Shenzhen, researching efficient AI."
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,7 +18,7 @@ redirect_from:
 <div id="about-me">
 <p><em>Last updated: 9 October 2026</em></p>
 
-<p>I am a graduate student in the MAIR program at <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</a></strong>. My research focuses on <strong>efficient AI</strong>, under the guidance of <strong><a href="https://wangbo-zhao.github.io/">Wangbo Zhao</a></strong> and <strong><a href="https://lancezpf.github.io/">Pengfei Zhou</a></strong>.</p>
+<p>I am a master's student in the MAIR program at <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</a></strong>. My research focuses on <strong>efficient AI</strong>, under the guidance of <strong><a href="https://wangbo-zhao.github.io/">Wangbo Zhao</a></strong> and <strong><a href="https://lancezpf.github.io/">Pengfei Zhou</a></strong>.</p>
 
 <p>Previously, I received my B.S. in Artificial Intelligence from the School of Software at <strong><a href="https://www.sdu.edu.cn/">Shandong University</a></strong> in June 2026.</p>
 </div>
@@ -30,7 +30,7 @@ redirect_from:
 <ul class="news-list">
 <li><em>2026.09</em>: &nbsp;🎉🎉 My first-author paper, <a href="https://neurips.cc/virtual/2026/poster/154661">IMTS-Tokenizer</a>, was accepted to <strong>NeurIPS 2026</strong>.</li>
 <li><em>2026.09</em>: &nbsp;🎓 I started the <strong>MAIR program at CUHK-Shenzhen</strong>.</li>
-<li><em>2026.07</em>: &nbsp;🚀 I joined <strong>InfRec</strong> as a <strong>Research Intern</strong>.</li>
+<li><em>2026.07</em>: &nbsp;🚀 I joined <strong><a href="https://cardinal-agi.com/">InfRec</a></strong>, a startup, as a <strong>Research Intern</strong>.</li>
 </ul>
 </div>
 
