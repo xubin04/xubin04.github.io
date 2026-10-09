@@ -34,6 +34,41 @@ redirect_from:
 </ul>
 </div>
 
+# Publications
+{: #publications .section-title .section-title-publication}
+
+<h3 class="pub-subhead">Selected Collaborative Publications <a href="https://scholar.google.com/citations?user=UDiUIGwAAAAJ&amp;hl=en">(Google Scholar)</a></h3>
+
+<div class="publication-list">
+  <div class="pub-item">
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://www.ijcai.org/proceedings/2025/394">CAN-ST: Clustering Adaptive Normalization for Spatio-temporal OOD Learning</a></div>
+      <div class="pub-authors">Min Yang, Yang An, Jinliang Deng, Xiaoyu Li, <strong>Bin Xu</strong>, Ji Zhong, Xiankai Lu, Yongshun Gong.</div>
+      <div class="pub-venue"><em>International Joint Conference on Artificial Intelligence</em> (<strong>IJCAI</strong>), 2025. <a href="https://www.ijcai.org/proceedings/2025/0394.pdf" aria-label="CAN-ST paper PDF">PDF</a></div>
+    </div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://doi.org/10.1109/TKDE.2025.3565504">STDA: Spatio-Temporal Deviation Alignment Learning for Cross-City Fine-Grained Urban Flow Inference</a></div>
+      <div class="pub-authors">Min Yang, Xiaoyu Li, <strong>Bin Xu</strong>, Xiushan Nie, Muming Zhao, Chengqi Zhang, Yu Zheng, Yongshun Gong.</div>
+      <div class="pub-venue"><em>IEEE Transactions on Knowledge and Data Engineering</em> (<strong>TKDE</strong>), 2025.</div>
+    </div>
+  </div>
+</div>
+
+<h3 class="pub-subhead">Preprints</h3>
+
+<div class="publication-list">
+  <div class="pub-item">
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://arxiv.org/abs/2508.04517">Channel-Independent Federated Traffic Prediction</a></div>
+      <div class="pub-authors">Mo Zhang, Xiaoyu Li, <strong>Bin Xu</strong>, Meng Chen, Yongshun Gong.</div>
+      <div class="pub-venue"><em>arXiv preprint</em>, arXiv:2508.04517, 2025. <a href="https://arxiv.org/pdf/2508.04517" aria-label="Channel-Independent Federated Traffic Prediction paper PDF">PDF</a></div>
+    </div>
+  </div>
+</div>
+
 # Education
 {: #education .section-title .section-title-education}
 
