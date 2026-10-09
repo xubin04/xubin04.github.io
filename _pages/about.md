@@ -68,7 +68,7 @@ redirect_from:
     <div class="pub-body">
       <div class="pub-title"><a href="https://doi.org/10.1109/TKDE.2025.3565504">STDA: Spatio-Temporal Deviation Alignment Learning for Cross-City Fine-Grained Urban Flow Inference</a></div>
       <div class="pub-authors">Min Yang, Xiaoyu Li, <strong>Bin Xu</strong>, Xiushan Nie, Muming Zhao, Chengqi Zhang, Yu Zheng, Yongshun Gong.</div>
-      <div class="pub-venue"><em>IEEE Transactions on Knowledge and Data Engineering</em> (<strong>TKDE</strong>), 2025.</div>
+      <div class="pub-venue"><em>IEEE Transactions on Knowledge and Data Engineering</em> (<strong>TKDE</strong>), 2025. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10980031" aria-label="STDA paper PDF on IEEE Xplore" title="Institutional or subscription access may be required">PDF (IEEE)</a></div>
     </div>
   </div>
 </div>
