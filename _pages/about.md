@@ -18,7 +18,9 @@ redirect_from:
 <div id="about-me">
 <p><em>Last updated: 9 October 2026</em></p>
 
-<p>I am a master's student in the MAIR program at <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</a></strong>. My research focuses on <strong>efficient AI</strong>, under the guidance of <strong><a href="https://wangbo-zhao.github.io/">Wangbo Zhao</a></strong> and <strong><a href="https://lancezpf.github.io/">Pengfei Zhou</a></strong>.</p>
+<p>I am a master's student in the MAIR program at <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</a></strong>. I conduct research under the guidance of <strong><a href="https://wangbo-zhao.github.io/">Wangbo Zhao</a></strong> and <strong><a href="https://lancezpf.github.io/">Pengfei Zhou</a></strong>.</p>
+
+<p>My research focuses on <strong>efficient AI</strong>, exploring how to build more capable AI systems under limited computational budgets. My long-term goal is to <strong>advance the frontier of intelligence per unit of compute</strong>.</p>
 
 <p>Previously, I received my B.S. in Artificial Intelligence from the School of Software at <strong><a href="https://www.sdu.edu.cn/">Shandong University</a></strong> in June 2026.</p>
 </div>
