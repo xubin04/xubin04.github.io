@@ -109,8 +109,19 @@ redirect_from:
   </div>
 </div>
 
-# Research Experience
-{: #research-experience .section-title .section-title-internship}
+<div id="research-experience"></div>
+
+# Internships
+{: #internships .section-title .section-title-internship}
+
+<div class="internship-item">
+  <div class="logo-container"><img src="/images/infrec-logo.png" alt="InfRec logo" width="128" height="111" loading="lazy"></div>
+  <div class="content">
+    <div class="title"><a href="https://cardinal-agi.com/">InfRec</a></div>
+    <div class="subtitle">Research Intern · Startup</div>
+    <div class="date">2026.07 – Present</div>
+  </div>
+</div>
 
 <div class="internship-item">
   <div class="logo-container" aria-hidden="true"><span class="logo-placeholder">AI</span></div>
