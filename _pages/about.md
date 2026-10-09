@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a graduate student in the MAIR program at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en). My research focuses on **efficient AI**, under the guidance of [Wangbo Zhao](https://wangbo-zhao.github.io/) and [Pengfei Zhou](https://lancezpf.github.io/).
+I am currently a graduate student in the MAIR program at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en), working with [Wangbo Zhao](https://wangbo-zhao.github.io/) and [Pengfei Zhou](https://lancezpf.github.io/). My research interests lie in **efficient AI**.
 
-I received my B.S. in Artificial Intelligence from the School of Software at Shandong University in June 2026.
+Prior to joining CUHK-Shenzhen, I received my B.S. in Artificial Intelligence from the School of Software at Shandong University in June 2026.
 
 
 # 🔥 News
