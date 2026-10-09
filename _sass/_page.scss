@@ -635,6 +635,18 @@
       vertical-align: middle;
       margin-left: 4px;
     }
+
+    .news-company-link {
+      white-space: nowrap;
+    }
+
+    .news-company-logo {
+      display: inline-block;
+      width: 1.15em;
+      height: auto;
+      margin: 0 0.25em 0 0;
+      vertical-align: -0.15em;
+    }
   }
 }
 

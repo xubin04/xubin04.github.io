@@ -30,7 +30,7 @@ redirect_from:
 <ul class="news-list">
 <li><em>2026.09</em>: &nbsp;🎉🎉 My first-author paper, <a href="https://neurips.cc/virtual/2026/poster/154661">IMTS-Tokenizer</a>, was accepted to <strong>NeurIPS 2026</strong>.</li>
 <li><em>2026.09</em>: &nbsp;🎓 I started the <strong>MAIR program at CUHK-Shenzhen</strong>.</li>
-<li><em>2026.07</em>: &nbsp;🚀 I joined <strong><a href="https://cardinal-agi.com/">InfRec</a></strong>, a startup, as a <strong>Research Intern</strong>.</li>
+<li><em>2026.07</em>: &nbsp;🚀 I joined <strong><a class="news-company-link" href="https://cardinal-agi.com/"><img class="news-company-logo" src="/images/infrec-logo.png" alt="" width="128" height="111">InfRec</a></strong>, a startup, as a <strong>Research Intern</strong>.</li>
 </ul>
 </div>
 
