@@ -28,7 +28,7 @@ redirect_from:
 
 <div class="news-scroll-container" tabindex="0" role="region" aria-label="Latest news">
 <ul class="news-list">
-<li><em>2026.09</em>: &nbsp;🎉🎉 One of my first-author papers was accepted to <strong>NeurIPS 2026</strong>.</li>
+<li><em>2026.09</em>: &nbsp;🎉🎉 My first-author paper, <a href="https://neurips.cc/virtual/2026/poster/154661">IMTS-Tokenizer</a>, was accepted to <strong>NeurIPS 2026</strong>.</li>
 <li><em>2026.09</em>: &nbsp;🎓 I started the <strong>MAIR program at CUHK-Shenzhen</strong>.</li>
 <li><em>2026.07</em>: &nbsp;🚀 I joined <strong>InfRec</strong>, a startup.</li>
 </ul>
@@ -36,6 +36,18 @@ redirect_from:
 
 # Publications
 {: #publications .section-title .section-title-publication}
+
+<h3 class="pub-subhead">Selected First-Author Publications</h3>
+
+<div class="publication-list">
+  <div class="pub-item">
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://neurips.cc/virtual/2026/poster/154661">IMTS-Tokenizer: Time-Aware Tokenization for Irregular Multivariate Time Series Forecasting</a></div>
+      <div class="pub-authors"><strong>Bin Xu</strong>, Yinghua Li, Linqi Han, Xiaoyu Li, Xinghao Yang, Wei Liu, Yongshun Gong.</div>
+      <div class="pub-venue"><em>Conference on Neural Information Processing Systems</em> (<strong>NeurIPS</strong>), 2026, Poster. <a href="https://openreview.net/forum?id=ByB7qk2CMI" aria-label="IMTS-Tokenizer on OpenReview">OpenReview</a> / <a href="https://neurips.cc/virtual/2026/poster/154661" aria-label="IMTS-Tokenizer NeurIPS conference page">Conference</a></div>
+    </div>
+  </div>
+</div>
 
 <h3 class="pub-subhead">Selected Collaborative Publications <a href="https://scholar.google.com/citations?user=UDiUIGwAAAAJ&amp;hl=en">(Google Scholar)</a></h3>
 
