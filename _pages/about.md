@@ -41,6 +41,9 @@ redirect_from:
 
 <div class="publication-list">
   <div class="pub-item">
+    <a class="pub-thumb" href="/images/publications/imts-tokenizer-framework.png" target="_blank" rel="noopener" aria-label="View the IMTS-Tokenizer architecture at full size">
+      <img src="/images/publications/imts-tokenizer-framework.png" alt="IMTS-Tokenizer architecture: irregular observations, IRAM tokenization, multi-scale processing, cross-channel attention, and query-conditioned prediction." width="1608" height="904" loading="lazy" decoding="async">
+    </a>
     <div class="pub-body">
       <div class="pub-title"><a href="https://neurips.cc/virtual/2026/poster/154661">IMTS-Tokenizer: Time-Aware Tokenization for Irregular Multivariate Time Series Forecasting</a></div>
       <div class="pub-authors"><strong>Bin Xu</strong>, Yinghua Li, Linqi Han, Xiaoyu Li, Xinghao Yang, Wei Liu, Yongshun Gong.</div>
