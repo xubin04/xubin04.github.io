@@ -30,7 +30,7 @@ redirect_from:
 <ul class="news-list">
 <li><em>2026.09</em>: &nbsp;🎉🎉 My first-author paper, <a href="https://neurips.cc/virtual/2026/poster/154661">IMTS-Tokenizer</a>, was accepted to <strong>NeurIPS 2026</strong>.</li>
 <li><em>2026.09</em>: &nbsp;🎓 I started the <strong>MAIR program at CUHK-Shenzhen</strong>.</li>
-<li><em>2026.07</em>: &nbsp;🚀 I joined <strong>InfRec</strong>, a startup.</li>
+<li><em>2026.07</em>: &nbsp;🚀 I joined <strong>InfRec</strong> as a <strong>Research Intern</strong>.</li>
 </ul>
 </div>
 
