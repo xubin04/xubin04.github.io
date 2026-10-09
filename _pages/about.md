@@ -147,5 +147,6 @@ redirect_from:
     <div class="title"><a href="https://time.sdu.edu.cn/index.htm">Time Lab</a></div>
     <div class="subtitle">Shandong University</div>
     <div class="date">2023.05 – 2025.05</div>
+    <div class="description">Research under the guidance of <a href="https://faculty.sdu.edu.cn/gongyongshun/zh_CN/index.htm">Yongshun Gong</a></div>
   </div>
 </div>
