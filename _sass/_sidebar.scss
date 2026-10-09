@@ -14,7 +14,7 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(2.5 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -31,7 +31,7 @@
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: $global-font-family;
   }
 
   h3, h4 {
@@ -39,7 +39,7 @@
   }
 
   p, li {
-    font-family: $sans-serif;
+    font-family: $global-font-family;
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -69,6 +69,25 @@
    Author profile and links
    ========================================================================== */
 .profile_box{
+  padding: 1.5em;
+
+  @include breakpoint($large) {
+    padding: 1.5em 0.8em;
+  }
+  @include breakpoint($x-large) {
+    padding: 1.5em;
+  }
+
+  // phones: let the icon row wrap onto its own line under the name
+  @media (max-width: #{$small - 1px}) {
+    flex-wrap: wrap;
+  }
+  background: linear-gradient(to bottom, #ffffff, #fafbfc);
+  border: 1px solid $border-color;
+  border-radius: $border-radius * 2;
+  box-shadow: $box-shadow;
+  transition: $global-transition;
+
   @include breakpoint($large) {
     display: block;
   }
@@ -76,6 +95,13 @@
   justify-content: flex-start;
   align-content: flex-start;
   align-items: center;
+
+  @include breakpoint($large) {
+    &:hover {
+      box-shadow: $box-shadow-hover;
+      transform: translateY(-2px);
+    }
+  }
 }
 
 .author__avatar {
@@ -95,10 +121,21 @@
     max-width: 175px;
     min-width: 75px;
     border-radius: 50%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: $global-transition;
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 3px solid $border-color;
+      background: white;
+
+      &:hover {
+        transform: scale(1.05);
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+        border-color: $info-color;
+      }
     }
   }
 }
@@ -121,35 +158,46 @@
 
 .author__name {
   margin: 0;
+    font-family: $global-font-family;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 8px;
+    margin-bottom: 6px;
   }
 }
 
+// Keep the short author name readable across sidebar widths.
 .sidebar .author__name {
-  @include breakpoint($medium) {
-    font-size: $type-size-3;
-  }
-  font-family: $sans-serif;
-  font-size: $type-size-4;
+  font-family: $global-font-family;
+  font-size: 24px;
+  white-space: nowrap;
+}
+
+.author__name-zh {
+  display: block;
+  margin-top: 0.2em;
+  font-size: max(13px, 0.8em);
+  white-space: normal;
 }
 
 .author__bio {
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 8px;
+    margin-bottom: 12px;
   }
 }
 
 .author__urls-wrapper {
+  @media (max-width: #{$small - 1px}) {
+    flex: 0 0 100%;
+    margin-top: 0.75em;
+  }
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+    font-family: $global-font-family;
   z-index: 10;
   position: relative;
   margin-left: auto;
@@ -186,7 +234,7 @@
   border-radius: $border-radius;
   background: #fff;
   z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  box-shadow: 0 4px 16px rgba(#000, 0.15);
   cursor: default;
 
   @include breakpoint($large) {
@@ -237,18 +285,87 @@
     white-space: nowrap;
   }
 
+  li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+
+    a, span {
+      display: flex;
+      align-items: center;
+      padding: 0.5em 0.75em;
+      padding-right: 5px;
+      color: $text-color;
+      font-size: $type-size-5;
+      text-decoration: none;
+      border-radius: $border-radius;
+      transition: $global-transition;
+      width: 100%;
+
+      i, svg {
+        margin-right: 0.5em;
+        width: 1.2em;
+        height: 1.2em;
+        text-align: center;
+        color: $gray;
+        transition: $global-transition;
+        flex-shrink: 0;
+      }
+
+      svg.icon-x, svg.icon-zhihu {
+        fill: currentColor;
+      }
+    }
+
+    a {
+      &:hover {
+        background-color: lighten($info-color, 45%);
+        color: $info-color;
+        transform: translateX(3px);
+        text-decoration: none;
+      }
+
+      &:hover i,
+      &:hover svg {
+        color: $info-color;
+      }
+    }
+
+    span {
+      cursor: default;
+    }
+  }
+
+  // 保持向后兼容
   a {
-    display: block;
-    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    padding: 0.5em 0.75em;
     padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    color: inherit;
+    color: $text-color;
     font-size: $type-size-5;
     text-decoration: none;
+    border-radius: $border-radius;
+    transition: $global-transition;
 
     &:hover {
-      text-decoration: underline;
+      background-color: lighten($info-color, 45%);
+      color: $info-color;
+      transform: translateX(3px);
+      text-decoration: none;
+    }
+
+    i {
+      margin-right: 0.5em;
+      width: 1.2em;
+      text-align: center;
+      color: $gray;
+      transition: $global-transition;
+    }
+
+    &:hover i {
+      color: $info-color;
     }
   }
 }

@@ -1,4 +1,27 @@
-<script src="assets/js/main.min.js"></script>
+<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+<script>
+  $(function () {
+    var navigation = $('#site-nav');
+    var toggle = navigation.find('button');
+    var overflow = navigation.find('.hidden-links');
+
+    // Keep section headings below the sticky masthead on every screen size.
+    navigation.find('a').smoothScroll({ offset: -($('.masthead').outerHeight() + 16) });
+    toggle.on('click', function () {
+      toggle.attr('aria-expanded', !overflow.hasClass('hidden'));
+    });
+    navigation.find('a').on('click', function () {
+      overflow.addClass('hidden');
+      toggle.removeClass('close').attr('aria-expanded', 'false');
+    });
+    navigation.on('keydown', function (event) {
+      if (event.key === 'Escape' && !overflow.hasClass('hidden')) {
+        overflow.addClass('hidden');
+        toggle.removeClass('close').attr('aria-expanded', 'false').focus();
+      }
+    });
+  });
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

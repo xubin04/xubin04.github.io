@@ -1,4 +1,12 @@
 
+# Xu Bin's academic homepage
+
+This site uses the design and page components from [Yujin Tang's homepage](https://github.com/yyyujintang/yyyujintang.github.io), built on AcadHomepage and Minimal Mistakes. The original MIT license is retained in `LICENSE`.
+
+Profile and timeline content are maintained in `_pages/about.md`, contact details in `_config.yml`, and section links in `_data/navigation.yml`. The Google Scholar crawler and its workflow remain configured for this repository.
+
+Institution images: CUHK-Shenzhen and HKUST(GZ) marks come from the template; [Shandong University](https://www.sdu.edu.cn/images/logo.svg) and [UCF](https://www.ucf.edu/wp-content/blogs.dir/16/files/2018/02/cropped-favicon-192x192.png) marks come from their official websites.
+
 <h1 align="center">
 AcadHomepage
 </h1>

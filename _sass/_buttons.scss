@@ -12,7 +12,7 @@
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
   color: #fff !important;
-  font-family: $sans-serif;
+  font-family: $global-font-family;
   font-size: $type-size-6;
   font-weight: bold;
   text-align: center;
@@ -23,7 +23,9 @@
   cursor: pointer;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: mix(black, $primary-color, 20%);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   }
 
   .icon {
