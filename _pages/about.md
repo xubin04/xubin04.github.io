@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <div id="about-me">
-<p><em>Last updated: 13 October 2026</em></p>
+<p><em>Last updated: 14 October 2026</em></p>
 
 <p>I am a master's student in the MAIR program at <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</a></strong>. I conduct research under the guidance of <strong><a href="https://wangbo-zhao.github.io/">Wangbo Zhao</a></strong> and <strong><a href="https://lancezpf.github.io/">Pengfei Zhou</a></strong>.</p>
 
@@ -30,6 +30,7 @@ redirect_from:
 
 <div class="news-scroll-container" tabindex="0" role="region" aria-label="Latest news">
 <ul class="news-list">
+<li><em>2026.10</em>: &nbsp;🚀 I launched <a href="https://xubin04.github.io/efficient-ai-arxiv-daily/">Efficient AI · arXiv Daily</a>, a daily arXiv feed on efficient LLMs and visual generation.</li>
 <li><em>2026.09</em>: &nbsp;🎉🎉 My first-author paper, <a href="https://neurips.cc/virtual/2026/poster/154661">IMTS-Tokenizer</a>, was accepted to <strong>NeurIPS 2026</strong>.</li>
 <li><em>2026.09</em>: &nbsp;🎓 I started the <strong>MAIR program at CUHK-Shenzhen</strong>.</li>
 <li><em>2026.07</em>: &nbsp;🚀 I joined <strong><a class="news-company-link" href="https://cardinal-agi.com/"><img class="news-company-logo" src="/images/infrec-logo.png" alt="" width="128" height="111">InfRec</a></strong>, a startup, as a <strong>Research Intern</strong>.</li>
