@@ -29,7 +29,7 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %}
       {% if author.wechat_qr %}
-        <li><a href="{{ author.wechat_qr | relative_url }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat</a></li>
+        <li><a class="image-popup" href="{{ author.wechat_qr | relative_url }}" aria-label="Show WeChat QR code"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -130,7 +130,7 @@
         <a href="mailto:{{ author.email }}" aria-label="Email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.wechat_qr %}
-        <a href="{{ author.wechat_qr | relative_url }}" aria-label="WeChat"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></a>
+        <a class="image-popup" href="{{ author.wechat_qr | relative_url }}" aria-label="Show WeChat QR code" title="Show WeChat QR code"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
@@ -224,12 +224,4 @@
       {% endif %}
     </div>
   </div>
-  {% if author.wechat_qr %}
-    <figure class="author__wechat-qr">
-      <a href="{{ author.wechat_qr | relative_url }}" target="_blank" rel="noopener" aria-label="Open WeChat QR code">
-        <img src="{{ author.wechat_qr | relative_url }}" alt="WeChat contact QR code" width="652" height="652" loading="lazy" decoding="async">
-      </a>
-      <figcaption>Scan to add me on WeChat</figcaption>
-    </figure>
-  {% endif %}
 </div>
