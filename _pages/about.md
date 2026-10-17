@@ -22,8 +22,6 @@ redirect_from:
 
 <p>My research focuses on <strong>efficient AI</strong>, exploring how to build more capable AI systems under limited computational budgets. I am particularly interested in <strong>efficient attention mechanisms</strong>, <strong>speculative decoding</strong>, and <strong>low-bit training</strong>. My long-term goal is to <strong>advance the frontier of intelligence per unit of compute</strong>.</p>
 
-<blockquote><p>High attention, low ego, real impact.</p></blockquote>
-
 <p>Previously, I received my B.S. in Artificial Intelligence from the School of Software at <strong><a href="https://www.sdu.edu.cn/">Shandong University</a></strong> in June 2026.</p>
 </div>
 

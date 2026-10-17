@@ -189,6 +189,26 @@
   }
 }
 
+.author__motto {
+  margin: 1.25em 0 1.1em;
+  padding: 0.65em 0.8em;
+  border-left: 3px solid $info-color;
+  background: rgba($info-color, 0.06);
+  color: $darker-gray;
+  font-size: $type-size-6;
+  line-height: 1.55;
+
+  p {
+    margin: 0;
+    font-style: italic;
+  }
+
+  @media (max-width: #{$small - 1px}) {
+    flex: 0 0 100%;
+    margin-top: 0.75em;
+  }
+}
+
 .author__urls-wrapper {
   @media (max-width: #{$small - 1px}) {
     flex: 0 0 100%;
