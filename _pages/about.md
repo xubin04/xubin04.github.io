@@ -30,6 +30,7 @@ redirect_from:
 
 <div class="news-scroll-container" tabindex="0" role="region" aria-label="Latest news">
 <ul class="news-list">
+<li><em>2026.10</em>: &nbsp;🚀 I released my first-author paper, <a href="https://infrec-cardinal.github.io/AB-Attention/">AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers</a>. <a href="https://infrec-cardinal.github.io/AB-Attention/static/papers/ab-attention.pdf">Paper</a> / <a href="https://github.com/InfRec-Cardinal/AB-Attention">Code</a>.</li>
 <li><em>2026.10</em>: &nbsp;🚀 I launched <a href="https://xubin04.github.io/efficient-ai-arxiv-daily/">Efficient AI · arXiv Daily</a>, a daily arXiv feed on efficient LLMs and visual generation.</li>
 <li><em>2026.09</em>: &nbsp;🎉🎉 My first-author paper, <a href="https://neurips.cc/virtual/2026/poster/154661">IMTS-Tokenizer</a>, was accepted to <strong>NeurIPS 2026</strong>.</li>
 <li><em>2026.09</em>: &nbsp;🎓 I started the <strong>MAIR program at CUHK-Shenzhen</strong>.</li>
