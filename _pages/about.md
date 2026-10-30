@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <div id="about-me">
-<p><em>Last updated: 18 October 2026</em></p>
+<p><em>Last updated: 30 October 2026</em></p>
 
 <p>I am a master's student in the MAIR program at <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</a></strong>. I conduct research under the guidance of <strong><a href="https://wangbo-zhao.github.io/">Wangbo Zhao</a></strong> and <strong><a href="https://lancezpf.github.io/">Pengfei Zhou</a></strong>.</p>
 
@@ -30,7 +30,7 @@ redirect_from:
 
 <div class="news-scroll-container" tabindex="0" role="region" aria-label="Latest news">
 <ul class="news-list">
-<li><em>2026.10</em>: &nbsp;🚀 I released my first-author paper, <a href="https://infrec-cardinal.github.io/AB-Attention/">AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers</a>. <a href="https://infrec-cardinal.github.io/AB-Attention/static/papers/ab-attention.pdf">Paper</a> / <a href="https://github.com/InfRec-Cardinal/AB-Attention">Code</a>.</li>
+<li><em>2026.10</em>: &nbsp;🚀 My first-author paper, <a href="https://arxiv.org/abs/2610.39663">AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers</a>, is now available on arXiv. <a href="https://arxiv.org/pdf/2610.39663">PDF</a> / <a href="https://infrec-cardinal.github.io/AB-Attention/">Project</a> / <a href="https://github.com/InfRec-Cardinal/AB-Attention">Code</a>.</li>
 <li><em>2026.10</em>: &nbsp;🚀 I launched <a href="https://xubin04.github.io/efficient-ai-arxiv-daily/">Efficient AI · arXiv Daily</a>, a daily arXiv feed on efficient LLMs and visual generation.</li>
 <li><em>2026.09</em>: &nbsp;🎉🎉 My first-author paper, <a href="https://neurips.cc/virtual/2026/poster/154661">IMTS-Tokenizer</a>, was accepted to <strong>NeurIPS 2026</strong>.</li>
 <li><em>2026.09</em>: &nbsp;🎓 I started the <strong>MAIR program at CUHK-Shenzhen</strong>.</li>
