@@ -45,15 +45,15 @@ redirect_from:
 <h3 class="pub-subhead">Selected First-Author Publications</h3>
 
 <div class="publication-list">
-  <div class="pub-item">
-    <a class="pub-thumb" href="/images/publications/ab-attention-overview.png" target="_blank" rel="noopener" aria-label="View the AB-Attention method overview at full size">
-      <img src="/images/publications/ab-attention-overview.png" alt="AB-Attention overview: query clustering for block scoring, probability-weighted sparse sampling, and fine-grained KV blocks packed into Tensor Core tiles." width="2400" height="565" loading="lazy" decoding="async">
-    </a>
+  <div class="pub-item pub-item--wide">
     <div class="pub-body">
       <div class="pub-title"><a href="https://arxiv.org/abs/2610.39663">AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers</a></div>
       <div class="pub-authors"><strong>Bin Xu</strong>, Mo Zhang, Zhengfeiyang Zhang, Xinfeng Yang, Yixing Ma, Wei Wang, HeXin Wang, Pengfei Zhou, Wangbo Zhao.</div>
       <div class="pub-venue"><em>arXiv preprint</em>, arXiv:2610.39663, 2026. <a href="https://arxiv.org/abs/2610.39663" aria-label="AB-Attention on arXiv">arXiv</a> / <a href="https://arxiv.org/pdf/2610.39663" aria-label="AB-Attention paper PDF">PDF</a> / <a href="https://infrec-cardinal.github.io/AB-Attention/" aria-label="AB-Attention project page">Project</a> / <a href="https://github.com/InfRec-Cardinal/AB-Attention" aria-label="AB-Attention source code">Code</a></div>
     </div>
+    <a class="pub-thumb" href="/images/publications/ab-attention-overview.png" target="_blank" rel="noopener" aria-label="View the AB-Attention method overview at full size">
+      <img src="/images/publications/ab-attention-overview.png" alt="AB-Attention overview: query clustering for block scoring, probability-weighted sparse sampling, and fine-grained KV blocks packed into Tensor Core tiles." width="2400" height="565" loading="lazy" decoding="async">
+    </a>
   </div>
 
   <div class="pub-item">
