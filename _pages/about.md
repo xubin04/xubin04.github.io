@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <div id="about-me">
-<p><em>Last updated: 30 October 2026</em></p>
+<p><em>Last updated: 31 October 2026</em></p>
 
 <p>I am a master's student in the MAIR program at <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</a></strong>. I conduct research under the guidance of <strong><a href="https://wangbo-zhao.github.io/">Wangbo Zhao</a></strong> and <strong><a href="https://lancezpf.github.io/">Pengfei Zhou</a></strong>.</p>
 
@@ -45,6 +45,17 @@ redirect_from:
 <h3 class="pub-subhead">Selected First-Author Publications</h3>
 
 <div class="publication-list">
+  <div class="pub-item">
+    <a class="pub-thumb" href="/images/publications/ab-attention-overview.png" target="_blank" rel="noopener" aria-label="View the AB-Attention method overview at full size">
+      <img src="/images/publications/ab-attention-overview.png" alt="AB-Attention overview: query clustering for block scoring, probability-weighted sparse sampling, and fine-grained KV blocks packed into Tensor Core tiles." width="2400" height="565" loading="lazy" decoding="async">
+    </a>
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://arxiv.org/abs/2610.39663">AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers</a></div>
+      <div class="pub-authors"><strong>Bin Xu</strong>, Mo Zhang, Zhengfeiyang Zhang, Xinfeng Yang, Yixing Ma, Wei Wang, HeXin Wang, Pengfei Zhou, Wangbo Zhao.</div>
+      <div class="pub-venue"><em>arXiv preprint</em>, arXiv:2610.39663, 2026. <a href="https://arxiv.org/abs/2610.39663" aria-label="AB-Attention on arXiv">arXiv</a> / <a href="https://arxiv.org/pdf/2610.39663" aria-label="AB-Attention paper PDF">PDF</a> / <a href="https://infrec-cardinal.github.io/AB-Attention/" aria-label="AB-Attention project page">Project</a> / <a href="https://github.com/InfRec-Cardinal/AB-Attention" aria-label="AB-Attention source code">Code</a></div>
+    </div>
+  </div>
+
   <div class="pub-item">
     <a class="pub-thumb" href="/images/publications/imts-tokenizer-framework.png" target="_blank" rel="noopener" aria-label="View the IMTS-Tokenizer architecture at full size">
       <img src="/images/publications/imts-tokenizer-framework.png" alt="IMTS-Tokenizer architecture: irregular observations, IRAM tokenization, multi-scale processing, cross-channel attention, and query-conditioned prediction." width="1608" height="904" loading="lazy" decoding="async">
