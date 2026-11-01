@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <div id="about-me">
-<p><em>Last updated: 31 October 2026</em></p>
+<p><em>Last updated: 2 November 2026</em></p>
 
 <p>I am a master's student in the MAIR program at <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</a></strong>. I conduct research under the guidance of <strong><a href="https://wangbo-zhao.github.io/">Wangbo Zhao</a></strong> and <strong><a href="https://lancezpf.github.io/">Pengfei Zhou</a></strong>.</p>
 
@@ -34,6 +34,7 @@ redirect_from:
 <li><em>2026.10</em>: &nbsp;🚀 I launched <a href="https://xubin04.github.io/efficient-ai-arxiv-daily/">Efficient AI · arXiv Daily</a>, a daily arXiv feed on efficient LLMs and visual generation.</li>
 <li><em>2026.09</em>: &nbsp;🎉🎉 My first-author paper, <a href="https://neurips.cc/virtual/2026/poster/154661">IMTS-Tokenizer</a>, was accepted to <strong>NeurIPS 2026</strong>.</li>
 <li><em>2026.09</em>: &nbsp;🎓 I started the <strong>MAIR program at CUHK-Shenzhen</strong>.</li>
+<li><em>2026.08</em>: &nbsp;🚀 Our paper introducing <a href="https://arxiv.org/abs/2608.14391">RA-Bench</a>, a benchmark for detecting AI-generated videos in real-world crisis settings, is available on arXiv. <a href="https://github.com/Shuo-Liang-0111/RA-Bench">Code</a> / <a href="https://huggingface.co/datasets/liangshuo0111/RA-Bench">Dataset</a>.</li>
 <li><em>2026.07</em>: &nbsp;🚀 I joined <strong><a class="news-company-link" href="https://cardinal-agi.com/"><img class="news-company-logo" src="/images/infrec-logo.png" alt="" width="128" height="111">InfRec</a></strong>, a startup, as a <strong>Research Intern</strong>.</li>
 <li><em>2026.06</em>: &nbsp;🎓 I graduated from <strong><a href="https://www.sdu.edu.cn/">Shandong University</a></strong> with a B.S. in Artificial Intelligence.</li>
 </ul>
@@ -91,6 +92,14 @@ redirect_from:
 <h3 class="pub-subhead">Preprints</h3>
 
 <div class="publication-list">
+  <div class="pub-item">
+    <div class="pub-body">
+      <div class="pub-title"><a href="https://arxiv.org/abs/2608.14391">Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination (RA-Bench)</a></div>
+      <div class="pub-authors">Shuo Liang, Yixing Ma, Pengfei Zhou, …, <strong>Bin Xu</strong>, …, Wangbo Zhao.</div>
+      <div class="pub-venue"><em>arXiv preprint</em>, arXiv:2608.14391, 2026. <a href="https://arxiv.org/abs/2608.14391" aria-label="RA-Bench on arXiv">arXiv</a> / <a href="https://arxiv.org/pdf/2608.14391" aria-label="RA-Bench paper PDF">PDF</a> / <a href="https://ra-bench-crisis-video.yxgma811120.chatgpt.site/" aria-label="RA-Bench project page">Project</a> / <a href="https://github.com/Shuo-Liang-0111/RA-Bench" aria-label="RA-Bench source code">Code</a> / <a href="https://huggingface.co/datasets/liangshuo0111/RA-Bench" aria-label="RA-Bench dataset">Dataset</a></div>
+    </div>
+  </div>
+
   <div class="pub-item">
     <div class="pub-body">
       <div class="pub-title"><a href="https://arxiv.org/abs/2508.04517">Channel-Independent Federated Traffic Prediction</a></div>
