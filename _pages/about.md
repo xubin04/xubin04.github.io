@@ -16,22 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <div id="about-me">
-<p class="intro-kicker">Efficient AI · CUHK-Shenzhen</p>
+<p><em>Last updated: 10 November 2026</em></p>
 
 <p>I am a master's student in the MAIR program at <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</a></strong>. I conduct research under the guidance of <strong><a href="https://wangbo-zhao.github.io/">Wangbo Zhao</a></strong> and <strong><a href="https://lancezpf.github.io/">Pengfei Zhou</a></strong>.</p>
 
-<p>My research focuses on <strong>efficient AI</strong>, exploring how to build more capable AI systems under limited computational budgets. I am particularly interested in:</p>
-
-<ul class="research-topics" aria-label="Research interests">
-  <li>Efficient attention mechanisms</li>
-  <li>Speculative decoding</li>
-  <li>Low-bit training</li>
-</ul>
-
-<p class="research-goal">My long-term goal is to <strong>advance the frontier of intelligence per unit of compute</strong>.</p>
+<p>My research focuses on <strong>efficient AI</strong>, exploring how to build more capable AI systems under limited computational budgets. I am particularly interested in <strong>efficient attention mechanisms</strong>, <strong>speculative decoding</strong>, and <strong>low-bit training</strong>. My long-term goal is to <strong>advance the frontier of intelligence per unit of compute</strong>.</p>
 
 <p>Previously, I received my B.S. in Artificial Intelligence from the School of Software at <strong><a href="https://www.sdu.edu.cn/">Shandong University</a></strong> in June 2026.</p>
-<p class="profile-updated">Last updated: 10 November 2026</p>
 </div>
 
 # News
@@ -39,13 +30,13 @@ redirect_from:
 
 <div class="news-scroll-container" tabindex="0" role="region" aria-label="Latest news">
 <ul class="news-list">
-<li><time datetime="2026-10">Oct 2026</time><span class="news-copy">My first-author paper, <a href="https://arxiv.org/abs/2610.39663">AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers</a>, is now available on arXiv. <a href="https://arxiv.org/pdf/2610.39663">PDF</a> / <a href="https://infrec-cardinal.github.io/AB-Attention/">Project</a> / <a href="https://github.com/InfRec-Cardinal/AB-Attention">Code</a>.</span></li>
-<li><time datetime="2026-10">Oct 2026</time><span class="news-copy">I launched <a href="https://xubin04.github.io/efficient-ai-arxiv-daily/">Efficient AI · arXiv Daily</a>, a daily arXiv feed on efficient LLMs and visual generation.</span></li>
-<li><time datetime="2026-09">Sep 2026</time><span class="news-copy">My first-author paper, <a href="https://neurips.cc/virtual/2026/poster/154661">IMTS-Tokenizer</a>, was accepted to <strong>NeurIPS 2026</strong>.</span></li>
-<li><time datetime="2026-09">Sep 2026</time><span class="news-copy">I started the <strong>MAIR program at CUHK-Shenzhen</strong>.</span></li>
-<li><time datetime="2026-08">Aug 2026</time><span class="news-copy">Our paper introducing <a href="https://arxiv.org/abs/2608.14391">RA-Bench</a>, a benchmark for detecting AI-generated videos in real-world crisis settings, is available on arXiv. <a href="https://github.com/Shuo-Liang-0111/RA-Bench">Code</a> / <a href="https://huggingface.co/datasets/liangshuo0111/RA-Bench">Dataset</a>.</span></li>
-<li><time datetime="2026-07">Jul 2026</time><span class="news-copy">I joined <strong><a class="news-company-link" href="https://cardinal-agi.com/"><img class="news-company-logo" src="/images/infrec-logo.png" alt="" width="128" height="111">InfRec</a></strong>, a startup, as a <strong>Research Intern</strong>.</span></li>
-<li><time datetime="2026-06">Jun 2026</time><span class="news-copy">I graduated from <strong><a href="https://www.sdu.edu.cn/">Shandong University</a></strong> with a B.S. in Artificial Intelligence.</span></li>
+<li><em>2026.10</em>: &nbsp;🚀 My first-author paper, <a href="https://arxiv.org/abs/2610.39663">AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers</a>, is now available on arXiv. <a href="https://arxiv.org/pdf/2610.39663">PDF</a> / <a href="https://infrec-cardinal.github.io/AB-Attention/">Project</a> / <a href="https://github.com/InfRec-Cardinal/AB-Attention">Code</a>.</li>
+<li><em>2026.10</em>: &nbsp;🚀 I launched <a href="https://xubin04.github.io/efficient-ai-arxiv-daily/">Efficient AI · arXiv Daily</a>, a daily arXiv feed on efficient LLMs and visual generation.</li>
+<li><em>2026.09</em>: &nbsp;🎉🎉 My first-author paper, <a href="https://neurips.cc/virtual/2026/poster/154661">IMTS-Tokenizer</a>, was accepted to <strong>NeurIPS 2026</strong>.</li>
+<li><em>2026.09</em>: &nbsp;🎓 I started the <strong>MAIR program at CUHK-Shenzhen</strong>.</li>
+<li><em>2026.08</em>: &nbsp;🚀 Our paper introducing <a href="https://arxiv.org/abs/2608.14391">RA-Bench</a>, a benchmark for detecting AI-generated videos in real-world crisis settings, is available on arXiv. <a href="https://github.com/Shuo-Liang-0111/RA-Bench">Code</a> / <a href="https://huggingface.co/datasets/liangshuo0111/RA-Bench">Dataset</a>.</li>
+<li><em>2026.07</em>: &nbsp;🚀 I joined <strong><a class="news-company-link" href="https://cardinal-agi.com/"><img class="news-company-logo" src="/images/infrec-logo.png" alt="" width="128" height="111">InfRec</a></strong>, a startup, as a <strong>Research Intern</strong>.</li>
+<li><em>2026.06</em>: &nbsp;🎓 I graduated from <strong><a href="https://www.sdu.edu.cn/">Shandong University</a></strong> with a B.S. in Artificial Intelligence.</li>
 </ul>
 </div>
 
@@ -59,8 +50,7 @@ redirect_from:
     <div class="pub-body">
       <div class="pub-title"><a href="https://arxiv.org/abs/2610.39663">AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers</a></div>
       <div class="pub-authors"><strong>Bin Xu</strong>, Mo Zhang, Zhengfeiyang Zhang, Xinfeng Yang, Yixing Ma, Wei Wang, HeXin Wang, Pengfei Zhou, Wangbo Zhao.</div>
-      <div class="pub-venue"><em>arXiv preprint</em>, arXiv:2610.39663, 2026.</div>
-      <div class="pub-links"><a href="https://arxiv.org/abs/2610.39663" aria-label="AB-Attention on arXiv">arXiv</a> <a href="https://arxiv.org/pdf/2610.39663" aria-label="AB-Attention paper PDF">PDF</a> <a href="https://infrec-cardinal.github.io/AB-Attention/" aria-label="AB-Attention project page">Project</a> <a href="https://github.com/InfRec-Cardinal/AB-Attention" aria-label="AB-Attention source code">Code</a></div>
+      <div class="pub-venue"><em>arXiv preprint</em>, arXiv:2610.39663, 2026. <a href="https://arxiv.org/abs/2610.39663" aria-label="AB-Attention on arXiv">arXiv</a> / <a href="https://arxiv.org/pdf/2610.39663" aria-label="AB-Attention paper PDF">PDF</a> / <a href="https://infrec-cardinal.github.io/AB-Attention/" aria-label="AB-Attention project page">Project</a> / <a href="https://github.com/InfRec-Cardinal/AB-Attention" aria-label="AB-Attention source code">Code</a></div>
     </div>
     <a class="pub-thumb" href="/images/publications/ab-attention-overview.png" target="_blank" rel="noopener" aria-label="View the AB-Attention method overview at full size">
       <img src="/images/publications/ab-attention-overview.png" alt="AB-Attention overview: query clustering for block scoring, probability-weighted sparse sampling, and fine-grained KV blocks packed into Tensor Core tiles." width="2400" height="565" loading="lazy" decoding="async">
@@ -74,8 +64,7 @@ redirect_from:
     <div class="pub-body">
       <div class="pub-title"><a href="https://neurips.cc/virtual/2026/poster/154661">IMTS-Tokenizer: Time-Aware Tokenization for Irregular Multivariate Time Series Forecasting</a></div>
       <div class="pub-authors"><strong>Bin Xu</strong>, Yinghua Li, Linqi Han, Xiaoyu Li, Xinghao Yang, Wei Liu, Yongshun Gong.</div>
-      <div class="pub-venue"><em>Conference on Neural Information Processing Systems</em> (<strong>NeurIPS</strong>), 2026, Poster.</div>
-      <div class="pub-links"><a href="https://openreview.net/forum?id=ByB7qk2CMI" aria-label="IMTS-Tokenizer on OpenReview">OpenReview</a> <a href="https://neurips.cc/virtual/2026/poster/154661" aria-label="IMTS-Tokenizer NeurIPS conference page">Conference</a></div>
+      <div class="pub-venue"><em>Conference on Neural Information Processing Systems</em> (<strong>NeurIPS</strong>), 2026, Poster. <a href="https://openreview.net/forum?id=ByB7qk2CMI" aria-label="IMTS-Tokenizer on OpenReview">OpenReview</a> / <a href="https://neurips.cc/virtual/2026/poster/154661" aria-label="IMTS-Tokenizer NeurIPS conference page">Conference</a></div>
     </div>
   </div>
 </div>
@@ -87,8 +76,7 @@ redirect_from:
     <div class="pub-body">
       <div class="pub-title"><a href="https://www.ijcai.org/proceedings/2025/394">CAN-ST: Clustering Adaptive Normalization for Spatio-temporal OOD Learning</a></div>
       <div class="pub-authors">Min Yang, Yang An, Jinliang Deng, Xiaoyu Li, <strong>Bin Xu</strong>, Ji Zhong, Xiankai Lu, Yongshun Gong.</div>
-      <div class="pub-venue"><em>International Joint Conference on Artificial Intelligence</em> (<strong>IJCAI</strong>), 2025.</div>
-      <div class="pub-links"><a href="https://www.ijcai.org/proceedings/2025/0394.pdf" aria-label="CAN-ST paper PDF">PDF</a></div>
+      <div class="pub-venue"><em>International Joint Conference on Artificial Intelligence</em> (<strong>IJCAI</strong>), 2025. <a href="https://www.ijcai.org/proceedings/2025/0394.pdf" aria-label="CAN-ST paper PDF">PDF</a></div>
     </div>
   </div>
 
@@ -96,8 +84,7 @@ redirect_from:
     <div class="pub-body">
       <div class="pub-title"><a href="https://doi.org/10.1109/TKDE.2025.3565504">STDA: Spatio-Temporal Deviation Alignment Learning for Cross-City Fine-Grained Urban Flow Inference</a></div>
       <div class="pub-authors">Min Yang, Xiaoyu Li, <strong>Bin Xu</strong>, Xiushan Nie, Muming Zhao, Chengqi Zhang, Yu Zheng, Yongshun Gong.</div>
-      <div class="pub-venue"><em>IEEE Transactions on Knowledge and Data Engineering</em> (<strong>TKDE</strong>), 2025.</div>
-      <div class="pub-links"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10980031" aria-label="STDA paper PDF on IEEE Xplore" title="Institutional or subscription access may be required">PDF (IEEE)</a></div>
+      <div class="pub-venue"><em>IEEE Transactions on Knowledge and Data Engineering</em> (<strong>TKDE</strong>), 2025. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10980031" aria-label="STDA paper PDF on IEEE Xplore" title="Institutional or subscription access may be required">PDF (IEEE)</a></div>
     </div>
   </div>
 </div>
@@ -109,8 +96,7 @@ redirect_from:
     <div class="pub-body">
       <div class="pub-title"><a href="https://arxiv.org/abs/2608.14391">Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination (RA-Bench)</a></div>
       <div class="pub-authors">Shuo Liang, Yixing Ma, Pengfei Zhou, …, <strong>Bin Xu</strong>, …, Wangbo Zhao.</div>
-      <div class="pub-venue"><em>arXiv preprint</em>, arXiv:2608.14391, 2026.</div>
-      <div class="pub-links"><a href="https://arxiv.org/abs/2608.14391" aria-label="RA-Bench on arXiv">arXiv</a> <a href="https://arxiv.org/pdf/2608.14391" aria-label="RA-Bench paper PDF">PDF</a> <a href="https://ra-bench-crisis-video.yxgma811120.chatgpt.site/" aria-label="RA-Bench project page">Project</a> <a href="https://github.com/Shuo-Liang-0111/RA-Bench" aria-label="RA-Bench source code">Code</a> <a href="https://huggingface.co/datasets/liangshuo0111/RA-Bench" aria-label="RA-Bench dataset">Dataset</a></div>
+      <div class="pub-venue"><em>arXiv preprint</em>, arXiv:2608.14391, 2026. <a href="https://arxiv.org/abs/2608.14391" aria-label="RA-Bench on arXiv">arXiv</a> / <a href="https://arxiv.org/pdf/2608.14391" aria-label="RA-Bench paper PDF">PDF</a> / <a href="https://ra-bench-crisis-video.yxgma811120.chatgpt.site/" aria-label="RA-Bench project page">Project</a> / <a href="https://github.com/Shuo-Liang-0111/RA-Bench" aria-label="RA-Bench source code">Code</a> / <a href="https://huggingface.co/datasets/liangshuo0111/RA-Bench" aria-label="RA-Bench dataset">Dataset</a></div>
     </div>
   </div>
 
@@ -118,8 +104,7 @@ redirect_from:
     <div class="pub-body">
       <div class="pub-title"><a href="https://arxiv.org/abs/2508.04517">Channel-Independent Federated Traffic Prediction</a></div>
       <div class="pub-authors">Mo Zhang, Xiaoyu Li, <strong>Bin Xu</strong>, Meng Chen, Yongshun Gong.</div>
-      <div class="pub-venue"><em>arXiv preprint</em>, arXiv:2508.04517, 2025.</div>
-      <div class="pub-links"><a href="https://arxiv.org/pdf/2508.04517" aria-label="Channel-Independent Federated Traffic Prediction paper PDF">PDF</a></div>
+      <div class="pub-venue"><em>arXiv preprint</em>, arXiv:2508.04517, 2025. <a href="https://arxiv.org/pdf/2508.04517" aria-label="Channel-Independent Federated Traffic Prediction paper PDF">PDF</a></div>
     </div>
   </div>
 </div>
