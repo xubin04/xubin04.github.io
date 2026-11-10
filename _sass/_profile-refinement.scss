@@ -98,7 +98,11 @@ a:focus-visible, .news-scroll-container:focus-visible { outline: 2px solid var(-
   border-radius: 0; box-shadow: none; transform: none; gap: 18px; text-align: left; flex-direction: row; align-items: flex-start;
 }
 .education-item .content, .internship-item .content { min-width: 0; }
-.education-item .content > *, .internship-item .content > * { font-family: var(--profile-font); }
+.education-item .content .title, .internship-item .content .title,
+.education-item .content .subtitle, .internship-item .content .subtitle,
+.education-item .content .date, .internship-item .content .date,
+.education-item .content .description, .internship-item .content .description,
+.education-item .content .description a, .internship-item .content .description a { font-family: var(--profile-font); }
 .education-item .content .title, .internship-item .content .title { font-size: 14px; line-height: 1.6; }
 .education-item .content .date, .internship-item .content .date { color: var(--profile-muted); font-size: 12px; margin-top: 4px; }
 .education-item .logo-container, .internship-item .logo-container { box-shadow: none; border-color: var(--profile-line); }
