@@ -36,7 +36,7 @@
         <li><a class="image-popup" href="{{ author.wechat_qr | relative_url }}" aria-label="Show WeChat QR code"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat</a></li>
       {% endif %}
       {% if author.xiaohongshu %}
-        <li><a href="{{ author.xiaohongshu }}" target="_blank" rel="noopener noreferrer" aria-label="Xiaohongshu (小红书)" title="小红书"><i class="fas fa-fw fa-book" aria-hidden="true"></i> Xiaohongshu</a></li>
+        <li><a href="{{ author.xiaohongshu }}" target="_blank" rel="noopener noreferrer" aria-label="RedNote" title="RedNote"><i class="fas fa-fw fa-book" aria-hidden="true"></i> RedNote</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -140,7 +140,7 @@
         <a class="image-popup" href="{{ author.wechat_qr | relative_url }}" aria-label="Show WeChat QR code" title="Show WeChat QR code"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.xiaohongshu %}
-        <a href="{{ author.xiaohongshu }}" target="_blank" rel="noopener noreferrer" aria-label="Xiaohongshu (小红书)" title="小红书"><i class="fas fa-fw fa-book" aria-hidden="true"></i></a>
+        <a href="{{ author.xiaohongshu }}" target="_blank" rel="noopener noreferrer" aria-label="RedNote" title="RedNote"><i class="fas fa-fw fa-book" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
