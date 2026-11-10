@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <div id="about-me">
-<p><em>Last updated: 2 November 2026</em></p>
+<p><em>Last updated: 10 November 2026</em></p>
 
 <p>I am a master's student in the MAIR program at <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</a></strong>. I conduct research under the guidance of <strong><a href="https://wangbo-zhao.github.io/">Wangbo Zhao</a></strong> and <strong><a href="https://lancezpf.github.io/">Pengfei Zhou</a></strong>.</p>
 
