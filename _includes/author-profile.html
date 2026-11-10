@@ -114,7 +114,7 @@
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.openreview %}
-        <li><a href="{{ author.openreview }}"><i class="fas fa-fw fa-book-open"></i> OpenReview</a></li>
+        <li><a href="{{ author.openreview }}" target="_blank" rel="noopener noreferrer" aria-label="OpenReview" title="OpenReview"><i class="fas fa-fw fa-book-open" aria-hidden="true"></i> OpenReview</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
@@ -218,7 +218,7 @@
         <a href="{{ author.googlescholar }}" aria-label="Google Scholar"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.openreview %}
-        <a href="{{ author.openreview }}"><i class="fas fa-fw fa-book-open"></i></a>
+        <a href="{{ author.openreview }}" target="_blank" rel="noopener noreferrer" aria-label="OpenReview" title="OpenReview"><i class="fas fa-fw fa-book-open" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.pubmed %}
         <a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i></a>
